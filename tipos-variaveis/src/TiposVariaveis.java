@@ -1,6 +1,6 @@
 public class TiposVariaveis{
     public static void main(String[] args) throws Exception {
-        //System.out.println("KA-ME-HA-ME-HÁÁÁÁÁ!");
+        System.out.println("KA-ME-HA-ME-HÁÁÁÁÁ!");
 
         double salarioMinimo = 2500;
         short numeroCurto = 1;
