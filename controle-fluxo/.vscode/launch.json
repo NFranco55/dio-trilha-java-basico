@@ -30,6 +30,16 @@
                 "${fileDirname}"
             ],
             "externalConsole": true
+        },
+        {
+            "name": "Java Debug",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": false,
+            "cwd":"$workspaceFolder",
+            "console":"internalConsole",
+            "mainClass": "${fileBasename}",
+            "args": ""
         }
     ]
 }

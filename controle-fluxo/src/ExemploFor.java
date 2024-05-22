@@ -3,5 +3,6 @@ public class ExemploFor {
         for (int carneirinhos=1;carneirinhos <=20; carneirinhos++) {
             System.out.println("contando carneirinhos "+carneirinhos);
         }
+        System.out.println("Joaozinho dormiu...");
     }
 }
